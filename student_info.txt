@@ -1,0 +1,14 @@
+==============================
+Student Information
+==============================
+
+Name            : Gayathiri G
+Register Number : 583224104026
+Department      : Computer Science Engineering
+Year            : II Year
+Institution     : NPR College of Engineering and Technology
+
+Project Title   : Student Portfolio & Task Management System
+Repository Name : github-setup-activity
+
+This file is created as part of the GitHub hands-on activity to demonstrate file creation and repository organization.
